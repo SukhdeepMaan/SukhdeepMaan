@@ -9,3 +9,5 @@ I am a passionate Android Developer with a strong focus on building modern and s
 - **Current Project**: Working on **FoodOrderApp**, a mobile application designed to streamline food ordering experiences with a clean and modern user interface.
 
 ### 🚀 Work
+- **Current Focus**: Developing robust Android applications with a keen eye for UI/UX design and performance optimization.
+- **Role**: Android Developer dedicated to building high-quality mobile apps that enhance user experiences.
