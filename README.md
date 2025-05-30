@@ -1,35 +1,56 @@
 # Sukhdeep Singh Maan
 
-### 🌟 About Me
-I am a passionate mobile developer with a strong focus on building clean, scalable, and responsive applications. I specialize in native Android development using **Kotlin** and **Jetpack Compose**, and native iOS development using **Swift** and **SwiftUI**. I enjoy solving design and architectural challenges while delivering high-performance user experiences.
+## 🌟 About Me
+I am a passionate and detail-oriented **Mobile & Backend Developer** with expertise in building scalable, responsive, and maintainable applications. I specialize in native Android development using **Kotlin** and **Jetpack Compose**, and native iOS development using **Swift** and **SwiftUI**. I also have solid experience in backend development using **Ktor** and relational databases like **PostgreSQL**, enabling me to deliver full-stack mobile solutions. My focus is on clean architecture, modularization, and delivering seamless, high-performance user experiences across platforms.
 
 ---
 
-### 🛠 Knowledge & Skills
+## 🛠 Knowledge & Skills
 
-- **Mobile Development**: Kotlin (Android), Swift (iOS), MVVM architecture, Clean Architecture, Modularization.
-- **Android Stack**: Jetpack Compose, Hilt, Room, DataStore, ViewModel, LiveData, Flow, Coroutines, Navigation (type-safe).
-- **iOS Stack**: Native iOS development using Swift and SwiftUI, leveraging MVVM architecture, Combine for reactive state management, Environment & Dependency Injection, custom layout scaling and adaptive UI design following Human Interface Guidelines.
-- **Cross-Platform**: Experience with Kotlin Multiplatform (KMP) and Compose Multiplatform (CMP) for shared logic and UI where applicable.
-- **Networking & APIs**:
-  - REST APIs using **Retrofit** (Android) and **URLSession** (iOS)
-  - WebSocket communication (real-time features)
-  - API integration with **Ktor Client** (cross-platform)
-- **Tooling & Workflow**: Git, GitHub, semantic versioning with tags, Jira (Agile/Scrum), CI/CD readiness.
-- **Design Systems**: Dynamic typography, padding, shapes, and theming based on screen size; scalable UI systems for both platforms.
+### Mobile Development
+- Kotlin (Android), Swift (iOS), MVVM architecture, Clean Architecture, Modularization
+
+### Android Stack
+- Jetpack Compose, Hilt, Room, DataStore, ViewModel, LiveData, Flow, Coroutines, Navigation (type-safe)
+
+### iOS Stack
+- Swift + SwiftUI, Combine, MVVM, Environment & Dependency Injection, adaptive UI design following Human Interface Guidelines
+
+### Cross-Platform
+- Kotlin Multiplatform (KMP), Compose Multiplatform (CMP)
+
+### Backend Development
+- Kotlin backend using **Ktor**
+- REST API design, **JWT authentication**, request validation, role-based access
+- PostgreSQL & MySQL using Kotlin Exposed ORM
+- Scalable, modular backend architecture
+
+### Networking & APIs
+- Retrofit (Android), URLSession (iOS)
+- WebSocket (real-time features), Ktor Client (multiplatform)
+
+### Tooling & DevOps
+- Docker for containerized backend deployment
+- Git, GitHub, semantic versioning & tagging, CI/CD pipelines
+- Jira for Agile/Scrum workflows
+
+### UI/UX & Design Systems
+- Dynamic layout scaling, typography, theming, and shapes based on screen size
+- System-wide light/dark mode support
+- Consistent design systems across Android and iOS
 
 ---
 
-### 🚀 Current Project – KicksHub
+## 🚀 Current Project – KicksHub *(In Development)*
 
-**KicksHub** is a modern sneaker shopping app being built **natively for both Android and iOS**:
+**KicksHub** is a modern, cross-platform sneaker e-commerce app developed natively for both Android and iOS, with a custom backend:
 
-- **Android App**: Built with Jetpack Compose using modular architecture and dynamic layout scaling.
-- **iOS App**: Architected with SwiftUI and MVVM, featuring a custom environment injection system, screen-responsive design logic, and a scalable component-based layout structure for consistent UI across device classes.
-- Both codebases follow shared design logic and aim to deliver a consistent cross-platform user experience while respecting native patterns.
+- **Android App**: Jetpack Compose, modular architecture, responsive UI, cart, authentication, push notifications
+- **iOS App**: SwiftUI with MVVM, dynamic scaling, environment-based DI
+- **Backend**: Ktor + PostgreSQL, JWT authentication, Dockerized and AWS-ready RESTful APIs
 
 ---
 
-### 🎯 Professional Goal
+## 🎯 Professional Goal
 
-To build robust, future-proof mobile applications with a strong focus on architecture, responsiveness, and UI consistency across platforms. I aim to contribute to high-quality, scalable app ecosystems that prioritize both performance and user satisfaction.
+To build robust, future-proof mobile and backend systems that emphasize scalability, clean architecture, and exceptional user experience. I’m passionate about designing systems that are not only efficient but also adaptable to new technologies and platform standards.
